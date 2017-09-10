@@ -1,0 +1,1 @@
+& net use Z: \\vlteststorage1.file.core.windows.net\vltestfileshare1  /u:AZURE\vlteststorage1 E2gLE6t6XMY4VJntQHr/hWrGUroxe3WeQQpPoDJcYI1Z7Qo0Ao0paCzHvN2IyeCFk2Q9mzQBROTywk6mGwiQOQ==

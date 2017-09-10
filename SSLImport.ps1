@@ -1,1 +1,0 @@
-& certutil -p westl00p -importPFX C:\inetpub\RapidSSL_WildcardCert_2017.pfx

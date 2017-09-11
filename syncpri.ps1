@@ -1,1 +1,0 @@
-& robocopy \\40.71.32.92\wwwroot C:\inetpub\wwwroot /MIR /FFT /Z /XA:H /W:5
